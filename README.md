@@ -37,11 +37,10 @@ Pour chaque quantité, les résultats de l'implémentation manuelle sont validé
 
 ## Lancer l'analyse
 
-1. Se procurer le jeu de données `smart278co.Rdata` (données de consommation électrique, non fourni dans ce dépôt pour des raisons de taille/licence)
-2. Adapter le chemin de chargement du fichier dans le script
-3. Exécuter le code R (fourni dans le rapport) dans RStudio
+1. Se procurer le jeu de données `smart278co.Rdata` (données de consommation électrique)
+2. Exécuter le code R dans RStudio
 
 ## Auteure
 
 Clara GAMBARDELLO
-Master 1 Modélisation Statistique - Modèles Linéaires (2024/2025)
+Master 1 Modélisation Statistique - Modèles Linéaires (2024)
